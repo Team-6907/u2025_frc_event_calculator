@@ -2,6 +2,10 @@
 
 [English](README.md) | [中文（简体）](README.zh-CN.md)
 
+> **已归档（v1）。** 本仓库是 FRC Team 6907 The G.O.A.T. 的第一代区域积分计算器。
+> 它已被 [`u2026_goat_event_v2`](https://github.com/Team-6907/u2026_goat_event_v2)（Python 领域模型重写版）取代，
+> 之后又被队伍 GOATLab 平台中的 GOATEvent 取代。本仓库不再维护，仅供参考。
+
 用于分析 FRC（FIRST 机器人竞赛）赛事并计算 2025+ 和 2026 赛季的区域积分。支持增强资格跟踪的整季区域池计算，提供命令行与现代化 Streamlit 仪表板，内置本地缓存与实时进度显示。
 
 ## 功能特性
@@ -154,7 +158,9 @@ python Test.py
 
 ## 许可
 
-Add your license here.
+本项目以 MIT 许可证发布，详见 [LICENSE](LICENSE)。
+
+Copyright (c) 2025 FRC Team 6907, The G.O.A.T
 
 ## 支持
 

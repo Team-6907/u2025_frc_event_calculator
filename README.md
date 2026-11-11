@@ -2,6 +2,10 @@
 
 [English](README.md) | [中文（简体）](README.zh-CN.md)
 
+> **Archived (v1).** This repository is the first-generation regional-points calculator of FRC Team 6907 The G.O.A.T.
+> It was superseded by [`u2026_goat_event_v2`](https://github.com/Team-6907/u2026_goat_event_v2) (a Python domain-model rewrite),
+> and then by GOATEvent inside the team's GOATLab platform. It is no longer maintained and is kept for reference only.
+
 Analyzer and points calculator for FRC (FIRST Robotics Competition) events. Implements 2025+ and 2026 regional points rules with enhanced qualification tracking, supports full-season pool calculation, and provides both CLI and modern Streamlit dashboard with local caching and live progress indicators.
 
 ## Features
@@ -153,7 +157,9 @@ Hints:
 
 ## License
 
-Add your license here.
+Released under the MIT License. See [LICENSE](LICENSE).
+
+Copyright (c) 2025 FRC Team 6907, The G.O.A.T
 
 ## Support
 
